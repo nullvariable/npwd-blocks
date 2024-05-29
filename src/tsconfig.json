@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "../dist/",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "module": "esnext",
+    "target": "es6",
+    "jsx": "react",
+    "allowJs": true,
+    "moduleResolution": "bundler",
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true
+  },
+}
